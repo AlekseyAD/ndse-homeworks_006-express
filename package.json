@@ -1,0 +1,17 @@
+{
+  "name": "ndse-006-express",
+  "version": "1.0.0",
+  "description": "Домашнее задание к занятию «2.1. Express»",
+  "main": "app-books.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app-books.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  }
+}
